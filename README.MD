@@ -12,10 +12,10 @@ npm start
 ```
 ## use postman to get post and delete
 
-# GET http://localhost:8080/user
-# GET http://localhost:8080/user/:user-id
-# POST http://localhost:8080/user  (Raw with type JSON)
-# DELETE http://localhost:8080/user/:user_id/user-1523333797808
+ GET http://localhost:8080/user
+ GET http://localhost:8080/user/:user-id
+ POST http://localhost:8080/user  (Raw with type JSON)
+ DELETE http://localhost:8080/user/:user_id/user-1523333797808
 
 # 
 
